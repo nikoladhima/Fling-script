@@ -1,5 +1,5 @@
--- I DONT OWN THIS SCRIPT
- 
+--REMAKE by Nikoleto Scripts
+
 local lp = game:FindService("Players").LocalPlayer
  
 local function gplr(String)
@@ -76,7 +76,7 @@ Title.BorderSizePixel = 0
 Title.Position = UDim2.new(0, 0, 0.295454562, 0)
 Title.Size = UDim2.new(0, 454, 0, 30)
 Title.Font = Enum.Font.SourceSans
-Title.Text = "FE Yeet Gui (trollface edition)"
+Title.Text = "FE Yeet Gui REMAKE by Nikoleto Scripts"
 Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 Title.TextScaled = true
 Title.TextSize = 14.000
@@ -88,7 +88,7 @@ TextBox.BorderSizePixel = 0
 TextBox.Position = UDim2.new(0.0704845786, 0, 0.270642221, 0)
 TextBox.Size = UDim2.new(0, 388, 0, 62)
 TextBox.Font = Enum.Font.SourceSans
-TextBox.PlaceholderText = "Who do i destroy(can be shortened)"
+TextBox.PlaceholderText = "Enter player's user/display name (can be shortened)"
 TextBox.Text = ""
 TextBox.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextBox.TextScaled = true
@@ -101,7 +101,7 @@ TextButton.BorderSizePixel = 0
 TextButton.Position = UDim2.new(0.10352423, 0, 0.596330225, 0)
 TextButton.Size = UDim2.new(0, 359, 0, 50)
 TextButton.Font = Enum.Font.SourceSans
-TextButton.Text = "Cheese em'"
+TextButton.Text = "Yeet em!"
 TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextButton.TextScaled = true
 TextButton.TextSize = 14.000
